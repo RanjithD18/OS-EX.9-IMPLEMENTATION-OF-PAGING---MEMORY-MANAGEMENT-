@@ -63,7 +63,7 @@ if __name__ == "__main__":
 
 # OUTPUT
 
-![1.png](https://github.com/manojvenaram/OS-EX.9-IMPLEMENTATION-OF-PAGING---MEMORY-MANAGEMENT-/blob/main/1.png)https://github.com/manojvenaram/OS-EX.9-IMPLEMENTATION-OF-PAGING---MEMORY-MANAGEMENT-/blob/main/1.png)
+![1.png](https://github.com/manojvenaram/OS-EX.9-IMPLEMENTATION-OF-PAGING---MEMORY-MANAGEMENT-/blob/main/1.png)
 
 # RESULT
 
